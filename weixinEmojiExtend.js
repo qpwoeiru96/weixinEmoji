@@ -1,3 +1,4 @@
+//@author: qpwoeiru96 <https://github.com/qpwoeiru96/weixinEmoji>
 var WeixinEmojiExtend = (function() {
 
     var emojiTable = {
