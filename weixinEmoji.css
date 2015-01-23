@@ -1,0 +1,2904 @@
+.weixinEmoji {
+    background: transparent url(weixinEmoji.png) no-repeat 0 0;
+    width: 20px;
+    height: 20px;
+    display: -moz-inline-stack;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -0.2em;
+    zoom:1;
+    *display: inline
+}
+
+
+.weixinEmoji-2600 {
+    background-position: 0 -260px
+}
+
+.weixinEmoji-2601 {
+    background-position: 0 -20px
+}
+
+.weixinEmoji-2614 {
+    background-position: 0 -40px
+}
+
+.weixinEmoji-26c4 {
+    background-position: 0 -60px
+}
+
+.weixinEmoji-26a1 {
+    background-position: 0 -80px
+}
+
+.weixinEmoji-1f300 {
+    background-position: 0 -100px
+}
+
+.weixinEmoji-1f301 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f302 {
+    background-position: 0 -120px
+}
+
+.weixinEmoji-1f303 {
+    background-position: 0 -920px
+}
+
+.weixinEmoji-1f304 {
+    background-position: 0 -160px
+}
+
+.weixinEmoji-1f305 {
+    background-position: 0 -180px
+}
+
+.weixinEmoji-1f306 {
+    background-position: 0 -200px
+}
+
+.weixinEmoji-1f307 {
+    background-position: 0 -220px
+}
+
+.weixinEmoji-1f308 {
+    background-position: 0 -240px
+}
+
+.weixinEmoji-2744 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-26c5 {
+    background-position: 0 -260px
+}
+
+.weixinEmoji-1f309 {
+    background-position: 0 -920px
+}
+
+.weixinEmoji-1f30a {
+    background-position: 0 -900px
+}
+
+.weixinEmoji-1f30b {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f30c {
+    background-position: 0 -920px
+}
+
+.weixinEmoji-1f30f {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f311 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f314 {
+    background-position: 0 -360px
+}
+
+.weixinEmoji-1f313 {
+    background-position: 0 -360px
+}
+
+.weixinEmoji-1f319 {
+    background-position: 0 -360px
+}
+
+.weixinEmoji-1f315 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f31b {
+    background-position: 0 -360px
+}
+
+.weixinEmoji-1f31f {
+    background-position: 0 -10740px
+}
+
+.weixinEmoji-1f320 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f550 {
+    background-position: 0 -380px
+}
+
+.weixinEmoji-1f551 {
+    background-position: 0 -400px
+}
+
+.weixinEmoji-1f552 {
+    background-position: 0 -420px
+}
+
+.weixinEmoji-1f553 {
+    background-position: 0 -440px
+}
+
+.weixinEmoji-1f554 {
+    background-position: 0 -460px
+}
+
+.weixinEmoji-1f555 {
+    background-position: 0 -480px
+}
+
+.weixinEmoji-1f556 {
+    background-position: 0 -500px
+}
+
+.weixinEmoji-1f557 {
+    background-position: 0 -520px
+}
+
+.weixinEmoji-1f558 {
+    background-position: 0 -540px
+}
+
+.weixinEmoji-1f559 {
+    background-position: 0 -620px
+}
+
+.weixinEmoji-1f55a {
+    background-position: 0 -580px
+}
+
+.weixinEmoji-1f55b {
+    background-position: 0 -600px
+}
+
+.weixinEmoji-231a {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-231b {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-23f0 {
+    background-position: 0 -620px
+}
+
+.weixinEmoji-23f3 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2648 {
+    background-position: 0 -640px
+}
+
+.weixinEmoji-2649 {
+    background-position: 0 -660px
+}
+
+.weixinEmoji-264a {
+    background-position: 0 -680px
+}
+
+.weixinEmoji-264b {
+    background-position: 0 -700px
+}
+
+.weixinEmoji-264c {
+    background-position: 0 -720px
+}
+
+.weixinEmoji-264d {
+    background-position: 0 -740px
+}
+
+.weixinEmoji-264e {
+    background-position: 0 -760px
+}
+
+.weixinEmoji-264f {
+    background-position: 0 -780px
+}
+
+.weixinEmoji-2650 {
+    background-position: 0 -800px
+}
+
+.weixinEmoji-2651 {
+    background-position: 0 -820px
+}
+
+.weixinEmoji-2652 {
+    background-position: 0 -840px
+}
+
+.weixinEmoji-2653 {
+    background-position: 0 -860px
+}
+
+.weixinEmoji-26ce {
+    background-position: 0 -880px
+}
+
+.weixinEmoji-1f340 {
+    background-position: 0 -1220px
+}
+
+.weixinEmoji-1f337 {
+    background-position: 0 -960px
+}
+
+.weixinEmoji-1f331 {
+    background-position: 0 -1220px
+}
+
+.weixinEmoji-1f341 {
+    background-position: 0 -1000px
+}
+
+.weixinEmoji-1f338 {
+    background-position: 0 -1020px
+}
+
+.weixinEmoji-1f339 {
+    background-position: 0 -1040px
+}
+
+.weixinEmoji-1f342 {
+    background-position: 0 -1060px
+}
+
+.weixinEmoji-1f343 {
+    background-position: 0 -1080px
+}
+
+.weixinEmoji-1f33a {
+    background-position: 0 -1100px
+}
+
+.weixinEmoji-1f33b {
+    background-position: 0 -1200px
+}
+
+.weixinEmoji-1f334 {
+    background-position: 0 -1140px
+}
+
+.weixinEmoji-1f335 {
+    background-position: 0 -1160px
+}
+
+.weixinEmoji-1f33e {
+    background-position: 0 -1180px
+}
+
+.weixinEmoji-1f33d {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f344 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f330 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f33c {
+    background-position: 0 -1200px
+}
+
+.weixinEmoji-1f33f {
+    background-position: 0 -1220px
+}
+
+.weixinEmoji-1f352 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f34c {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f34e {
+    background-position: 0 -1360px
+}
+
+.weixinEmoji-1f34a {
+    background-position: 0 -1260px
+}
+
+.weixinEmoji-1f353 {
+    background-position: 0 -1280px
+}
+
+.weixinEmoji-1f349 {
+    background-position: 0 -1300px
+}
+
+.weixinEmoji-1f345 {
+    background-position: 0 -1320px
+}
+
+.weixinEmoji-1f346 {
+    background-position: 0 -1340px
+}
+
+.weixinEmoji-1f348 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f34d {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f347 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f351 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f34f {
+    background-position: 0 -1360px
+}
+
+.weixinEmoji-1f440 {
+    background-position: 0 -1380px
+}
+
+.weixinEmoji-1f442 {
+    background-position: 0 -1400px
+}
+
+.weixinEmoji-1f443 {
+    background-position: 0 -1420px
+}
+
+.weixinEmoji-1f444 {
+    background-position: 0 -1440px
+}
+
+.weixinEmoji-1f445 {
+    background-position: 0 -3000px
+}
+
+.weixinEmoji-1f484 {
+    background-position: 0 -1480px
+}
+
+.weixinEmoji-1f485 {
+    background-position: 0 -1500px
+}
+
+.weixinEmoji-1f486 {
+    background-position: 0 -1520px
+}
+
+.weixinEmoji-1f487 {
+    background-position: 0 -1540px
+}
+
+.weixinEmoji-1f488 {
+    background-position: 0 -1560px
+}
+
+.weixinEmoji-1f464 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f466 {
+    background-position: 0 -1580px
+}
+
+.weixinEmoji-1f467 {
+    background-position: 0 -1600px
+}
+
+.weixinEmoji-1f468 {
+    background-position: 0 -1620px
+}
+
+.weixinEmoji-1f469 {
+    background-position: 0 -1640px
+}
+
+.weixinEmoji-1f46a {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f46b {
+    background-position: 0 -1660px
+}
+
+.weixinEmoji-1f46e {
+    background-position: 0 -1680px
+}
+
+.weixinEmoji-1f46f {
+    background-position: 0 -1700px
+}
+
+.weixinEmoji-1f470 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f471 {
+    background-position: 0 -1720px
+}
+
+.weixinEmoji-1f472 {
+    background-position: 0 -1740px
+}
+
+.weixinEmoji-1f473 {
+    background-position: 0 -1760px
+}
+
+.weixinEmoji-1f474 {
+    background-position: 0 -1780px
+}
+
+.weixinEmoji-1f475 {
+    background-position: 0 -1800px
+}
+
+.weixinEmoji-1f476 {
+    background-position: 0 -1820px
+}
+
+.weixinEmoji-1f477 {
+    background-position: 0 -1840px
+}
+
+.weixinEmoji-1f478 {
+    background-position: 0 -1860px
+}
+
+.weixinEmoji-1f479 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f47a {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f47b {
+    background-position: 0 -1880px
+}
+
+.weixinEmoji-1f47c {
+    background-position: 0 -1900px
+}
+
+.weixinEmoji-1f47d {
+    background-position: 0 -1920px
+}
+
+.weixinEmoji-1f47e {
+    background-position: 0 -1940px
+}
+
+.weixinEmoji-1f47f {
+    background-position: 0 -1960px
+}
+
+.weixinEmoji-1f480 {
+    background-position: 0 -1980px
+}
+
+.weixinEmoji-1f481 {
+    background-position: 0 -2000px
+}
+
+.weixinEmoji-1f482 {
+    background-position: 0 -2020px
+}
+
+.weixinEmoji-1f483 {
+    background-position: 0 -2040px
+}
+
+.weixinEmoji-1f40c {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f40d {
+    background-position: 0 -2620px
+}
+
+.weixinEmoji-1f40e {
+    background-position: 0 -6680px
+}
+
+.weixinEmoji-1f414 {
+    background-position: 0 -2640px
+}
+
+.weixinEmoji-1f417 {
+    background-position: 0 -2660px
+}
+
+.weixinEmoji-1f42b {
+    background-position: 0 -2680px
+}
+
+.weixinEmoji-1f418 {
+    background-position: 0 -2480px
+}
+
+.weixinEmoji-1f428 {
+    background-position: 0 -2500px
+}
+
+.weixinEmoji-1f412 {
+    background-position: 0 -2520px
+}
+
+.weixinEmoji-1f411 {
+    background-position: 0 -2540px
+}
+
+.weixinEmoji-1f419 {
+    background-position: 0 -2340px
+}
+
+.weixinEmoji-1f41a {
+    background-position: 0 -2360px
+}
+
+.weixinEmoji-1f41b {
+    background-position: 0 -2460px
+}
+
+.weixinEmoji-1f41c {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f41d {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f41e {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f420 {
+    background-position: 0 -2420px
+}
+
+.weixinEmoji-1f421 {
+    background-position: 0 -7360px
+}
+
+.weixinEmoji-1f422 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f424 {
+    background-position: 0 -2140px
+}
+
+.weixinEmoji-1f425 {
+    background-position: 0 -2140px
+}
+
+.weixinEmoji-1f426 {
+    background-position: 0 -2400px
+}
+
+.weixinEmoji-1f423 {
+    background-position: 0 -2140px
+}
+
+.weixinEmoji-1f427 {
+    background-position: 0 -2160px
+}
+
+.weixinEmoji-1f429 {
+    background-position: 0 -2720px
+}
+
+.weixinEmoji-1f41f {
+    background-position: 0 -7360px
+}
+
+.weixinEmoji-1f42c {
+    background-position: 0 -2380px
+}
+
+.weixinEmoji-1f42d {
+    background-position: 0 -2280px
+}
+
+.weixinEmoji-1f42f {
+    background-position: 0 -2240px
+}
+
+.weixinEmoji-1f431 {
+    background-position: 0 -2080px
+}
+
+.weixinEmoji-1f433 {
+    background-position: 0 -2300px
+}
+
+.weixinEmoji-1f434 {
+    background-position: 0 -2200px
+}
+
+.weixinEmoji-1f435 {
+    background-position: 0 -2320px
+}
+
+.weixinEmoji-1f436 {
+    background-position: 0 -2720px
+}
+
+.weixinEmoji-1f437 {
+    background-position: 0 -2780px
+}
+
+.weixinEmoji-1f43b {
+    background-position: 0 -2260px
+}
+
+.weixinEmoji-1f439 {
+    background-position: 0 -2440px
+}
+
+.weixinEmoji-1f43a {
+    background-position: 0 -2560px
+}
+
+.weixinEmoji-1f42e {
+    background-position: 0 -2580px
+}
+
+.weixinEmoji-1f430 {
+    background-position: 0 -2600px
+}
+
+.weixinEmoji-1f438 {
+    background-position: 0 -2700px
+}
+
+.weixinEmoji-1f43e {
+    background-position: 0 -6460px
+}
+
+.weixinEmoji-1f432 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f43c {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f43d {
+    background-position: 0 -2780px
+}
+
+.weixinEmoji-1f620 {
+    background-position: 0 -2800px
+}
+
+.weixinEmoji-1f629 {
+    background-position: 0 -3860px
+}
+
+.weixinEmoji-1f632 {
+    background-position: 0 -2840px
+}
+
+.weixinEmoji-1f61e {
+    background-position: 0 -2860px
+}
+
+.weixinEmoji-1f635 {
+    background-position: 0 -3540px
+}
+
+.weixinEmoji-1f630 {
+    background-position: 0 -2900px
+}
+
+.weixinEmoji-1f612 {
+    background-position: 0 -2920px
+}
+
+.weixinEmoji-1f60d {
+    background-position: 0 -3660px
+}
+
+.weixinEmoji-1f624 {
+    background-position: 0 -3720px
+}
+
+.weixinEmoji-1f61c {
+    background-position: 0 -2980px
+}
+
+.weixinEmoji-1f61d {
+    background-position: 0 -3000px
+}
+
+.weixinEmoji-1f60b {
+    background-position: 0 -3220px
+}
+
+.weixinEmoji-1f618 {
+    background-position: 0 -3640px
+}
+
+.weixinEmoji-1f61a {
+    background-position: 0 -3060px
+}
+
+.weixinEmoji-1f637 {
+    background-position: 0 -3080px
+}
+
+.weixinEmoji-1f633 {
+    background-position: 0 -3100px
+}
+
+.weixinEmoji-1f603 {
+    background-position: 0 -3580px
+}
+
+.weixinEmoji-1f605 {
+    background-position: 0 -3260px
+}
+
+.weixinEmoji-1f606 {
+    background-position: 0 -3380px
+}
+
+.weixinEmoji-1f601 {
+    background-position: 0 -3720px
+}
+
+.weixinEmoji-1f602 {
+    background-position: 0 -3620px
+}
+
+.weixinEmoji-1f60a {
+    background-position: 0 -3220px
+}
+
+.weixinEmoji-263a {
+    background-position: 0 -3240px
+}
+
+.weixinEmoji-1f604 {
+    background-position: 0 -3260px
+}
+
+.weixinEmoji-1f622 {
+    background-position: 0 -3680px
+}
+
+.weixinEmoji-1f62d {
+    background-position: 0 -3300px
+}
+
+.weixinEmoji-1f628 {
+    background-position: 0 -3320px
+}
+
+.weixinEmoji-1f623 {
+    background-position: 0 -3540px
+}
+
+.weixinEmoji-1f621 {
+    background-position: 0 -3880px
+}
+
+.weixinEmoji-1f60c {
+    background-position: 0 -3380px
+}
+
+.weixinEmoji-1f616 {
+    background-position: 0 -10520px
+}
+
+.weixinEmoji-1f614 {
+    background-position: 0 -3860px
+}
+
+.weixinEmoji-1f631 {
+    background-position: 0 -3440px
+}
+
+.weixinEmoji-1f62a {
+    background-position: 0 -3460px
+}
+
+.weixinEmoji-1f60f {
+    background-position: 0 -3480px
+}
+
+.weixinEmoji-1f613 {
+    background-position: 0 -3500px
+}
+
+.weixinEmoji-1f625 {
+    background-position: 0 -3520px
+}
+
+.weixinEmoji-1f62b {
+    background-position: 0 -3540px
+}
+
+.weixinEmoji-1f609 {
+    background-position: 0 -3560px
+}
+
+.weixinEmoji-1f63a {
+    background-position: 0 -3580px
+}
+
+.weixinEmoji-1f638 {
+    background-position: 0 -3720px
+}
+
+.weixinEmoji-1f639 {
+    background-position: 0 -3620px
+}
+
+.weixinEmoji-1f63d {
+    background-position: 0 -3640px
+}
+
+.weixinEmoji-1f63b {
+    background-position: 0 -3660px
+}
+
+.weixinEmoji-1f63f {
+    background-position: 0 -3680px
+}
+
+.weixinEmoji-1f63e {
+    background-position: 0 -3880px
+}
+
+.weixinEmoji-1f63c {
+    background-position: 0 -3720px
+}
+
+.weixinEmoji-1f640 {
+    background-position: 0 -3860px
+}
+
+.weixinEmoji-1f645 {
+    background-position: 0 -3760px
+}
+
+.weixinEmoji-1f646 {
+    background-position: 0 -3780px
+}
+
+.weixinEmoji-1f647 {
+    background-position: 0 -3800px
+}
+
+.weixinEmoji-1f648 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f64a {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f649 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f64b {
+    background-position: 0 -11240px
+}
+
+.weixinEmoji-1f64c {
+    background-position: 0 -3840px
+}
+
+.weixinEmoji-1f64d {
+    background-position: 0 -3860px
+}
+
+.weixinEmoji-1f64e {
+    background-position: 0 -3880px
+}
+
+.weixinEmoji-1f64f {
+    background-position: 0 -3900px
+}
+
+.weixinEmoji-1f3e0 {
+    background-position: 0 -3940px
+}
+
+.weixinEmoji-1f3e1 {
+    background-position: 0 -3940px
+}
+
+.weixinEmoji-1f3e2 {
+    background-position: 0 -3960px
+}
+
+.weixinEmoji-1f3e3 {
+    background-position: 0 -3980px
+}
+
+.weixinEmoji-1f3e5 {
+    background-position: 0 -4000px
+}
+
+.weixinEmoji-1f3e6 {
+    background-position: 0 -4020px
+}
+
+.weixinEmoji-1f3e7 {
+    background-position: 0 -4040px
+}
+
+.weixinEmoji-1f3e8 {
+    background-position: 0 -4060px
+}
+
+.weixinEmoji-1f3e9 {
+    background-position: 0 -4080px
+}
+
+.weixinEmoji-1f3ea {
+    background-position: 0 -4100px
+}
+
+.weixinEmoji-1f3eb {
+    background-position: 0 -4120px
+}
+
+.weixinEmoji-26ea {
+    background-position: 0 -4140px
+}
+
+.weixinEmoji-26f2 {
+    background-position: 0 -4160px
+}
+
+.weixinEmoji-1f3ec {
+    background-position: 0 -4180px
+}
+
+.weixinEmoji-1f3ef {
+    background-position: 0 -4200px
+}
+
+.weixinEmoji-1f3f0 {
+    background-position: 0 -4220px
+}
+
+.weixinEmoji-1f3ed {
+    background-position: 0 -4240px
+}
+
+.weixinEmoji-2693 {
+    background-position: 0 -6920px
+}
+
+.weixinEmoji-1f3ee {
+    background-position: 0 -8800px
+}
+
+.weixinEmoji-1f5fb {
+    background-position: 0 -4300px
+}
+
+.weixinEmoji-1f5fc {
+    background-position: 0 -4320px
+}
+
+.weixinEmoji-1f5fd {
+    background-position: 0 -4340px
+}
+
+.weixinEmoji-1f5fe {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f5ff {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f45e {
+    background-position: 0 -4400px
+}
+
+.weixinEmoji-1f45f {
+    background-position: 0 -4400px
+}
+
+.weixinEmoji-1f460 {
+    background-position: 0 -4420px
+}
+
+.weixinEmoji-1f461 {
+    background-position: 0 -4440px
+}
+
+.weixinEmoji-1f462 {
+    background-position: 0 -4460px
+}
+
+.weixinEmoji-1f463 {
+    background-position: 0 -6460px
+}
+
+.weixinEmoji-1f453 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f455 {
+    background-position: 0 -4620px
+}
+
+.weixinEmoji-1f456 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f451 {
+    background-position: 0 -4500px
+}
+
+.weixinEmoji-1f454 {
+    background-position: 0 -4520px
+}
+
+.weixinEmoji-1f452 {
+    background-position: 0 -4540px
+}
+
+.weixinEmoji-1f457 {
+    background-position: 0 -4560px
+}
+
+.weixinEmoji-1f458 {
+    background-position: 0 -4580px
+}
+
+.weixinEmoji-1f459 {
+    background-position: 0 -4600px
+}
+
+.weixinEmoji-1f45a {
+    background-position: 0 -4620px
+}
+
+.weixinEmoji-1f45b {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f45c {
+    background-position: 0 -4960px
+}
+
+.weixinEmoji-1f45d {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4b0 {
+    background-position: 0 -4720px
+}
+
+.weixinEmoji-1f4b1 {
+    background-position: 0 -4660px
+}
+
+.weixinEmoji-1f4b9 {
+    background-position: 0 -6380px
+}
+
+.weixinEmoji-1f4b2 {
+    background-position: 0 -4720px
+}
+
+.weixinEmoji-1f4b3 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4b4 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4b5 {
+    background-position: 0 -4720px
+}
+
+.weixinEmoji-1f4b8 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f1e81f1f3 {
+    background-position: 0 -4740px
+}
+
+.weixinEmoji-1f1e91f1ea {
+    background-position: 0 -4760px
+}
+
+.weixinEmoji-1f1ea1f1f8 {
+    background-position: 0 -4780px
+}
+
+.weixinEmoji-1f1eb1f1f7 {
+    background-position: 0 -4800px
+}
+
+.weixinEmoji-1f1ec1f1e7 {
+    background-position: 0 -4820px
+}
+
+.weixinEmoji-1f1ee1f1f9 {
+    background-position: 0 -4840px
+}
+
+.weixinEmoji-1f1ef1f1f5 {
+    background-position: 0 -4860px
+}
+
+.weixinEmoji-1f1f01f1f7 {
+    background-position: 0 -4880px
+}
+
+.weixinEmoji-1f1f71f1fa {
+    background-position: 0 -4900px
+}
+
+.weixinEmoji-1f1fa1f1f8 {
+    background-position: 0 -4920px
+}
+
+.weixinEmoji-1f525 {
+    background-position: 0 -5040px
+}
+
+.weixinEmoji-1f526 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f527 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f528 {
+    background-position: 0 -4360px
+}
+
+.weixinEmoji-1f529 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f52a {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f52b {
+    background-position: 0 -5020px
+}
+
+.weixinEmoji-1f52e {
+    background-position: 0 -5080px
+}
+
+.weixinEmoji-1f52f {
+    background-position: 0 -5080px
+}
+
+.weixinEmoji-1f530 {
+    background-position: 0 -9660px
+}
+
+.weixinEmoji-1f531 {
+    background-position: 0 -9680px
+}
+
+.weixinEmoji-1f489 {
+    background-position: 0 -5300px
+}
+
+.weixinEmoji-1f48a {
+    background-position: 0 -5320px
+}
+
+.weixinEmoji-1f170 {
+    background-position: 0 -5340px
+}
+
+.weixinEmoji-1f171 {
+    background-position: 0 -5360px
+}
+
+.weixinEmoji-1f18e {
+    background-position: 0 -5380px
+}
+
+.weixinEmoji-1f17e {
+    background-position: 0 -5400px
+}
+
+.weixinEmoji-1f380 {
+    background-position: 0 -5420px
+}
+
+.weixinEmoji-1f381 {
+    background-position: 0 -6080px
+}
+
+.weixinEmoji-1f382 {
+    background-position: 0 -5460px
+}
+
+.weixinEmoji-1f384 {
+    background-position: 0 -5480px
+}
+
+.weixinEmoji-1f385 {
+    background-position: 0 -5500px
+}
+
+.weixinEmoji-1f38c {
+    background-position: 0 -5520px
+}
+
+.weixinEmoji-1f386 {
+    background-position: 0 -5540px
+}
+
+.weixinEmoji-1f388 {
+    background-position: 0 -5560px
+}
+
+.weixinEmoji-1f389 {
+    background-position: 0 -5580px
+}
+
+.weixinEmoji-1f38d {
+    background-position: 0 -5600px
+}
+
+.weixinEmoji-1f38e {
+    background-position: 0 -5620px
+}
+
+.weixinEmoji-1f393 {
+    background-position: 0 -5640px
+}
+
+.weixinEmoji-1f392 {
+    background-position: 0 -5660px
+}
+
+.weixinEmoji-1f38f {
+    background-position: 0 -5680px
+}
+
+.weixinEmoji-1f387 {
+    background-position: 0 -5700px
+}
+
+.weixinEmoji-1f390 {
+    background-position: 0 -5720px
+}
+
+.weixinEmoji-1f383 {
+    background-position: 0 -5740px
+}
+
+.weixinEmoji-1f38a {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f38b {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f391 {
+    background-position: 0 -5760px
+}
+
+.weixinEmoji-1f4df {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-260e {
+    background-position: 0 -5800px
+}
+
+.weixinEmoji-1f4de {
+    background-position: 0 -5800px
+}
+
+.weixinEmoji-1f4f1 {
+    background-position: 0 -5820px
+}
+
+.weixinEmoji-1f4f2 {
+    background-position: 0 -5840px
+}
+
+.weixinEmoji-1f4dd {
+    background-position: 0 -6440px
+}
+
+.weixinEmoji-1f4e0 {
+    background-position: 0 -5880px
+}
+
+.weixinEmoji-2709 {
+    background-position: 0 -11200px
+}
+
+.weixinEmoji-1f4e8 {
+    background-position: 0 -11200px
+}
+
+.weixinEmoji-1f4e9 {
+    background-position: 0 -11200px
+}
+
+.weixinEmoji-1f4ea {
+    background-position: 0 -5980px
+}
+
+.weixinEmoji-1f4eb {
+    background-position: 0 -5980px
+}
+
+.weixinEmoji-1f4ee {
+    background-position: 0 -6000px
+}
+
+.weixinEmoji-1f4f0 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4e2 {
+    background-position: 0 -6020px
+}
+
+.weixinEmoji-1f4e3 {
+    background-position: 0 -6040px
+}
+
+.weixinEmoji-1f4e1 {
+    background-position: 0 -6060px
+}
+
+.weixinEmoji-1f4e4 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4e5 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4e6 {
+    background-position: 0 -6080px
+}
+
+.weixinEmoji-1f4e7 {
+    background-position: 0 -11200px
+}
+
+.weixinEmoji-1f520 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f521 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f522 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f523 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f524 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2712 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4ba {
+    background-position: 0 -6100px
+}
+
+.weixinEmoji-1f4bb {
+    background-position: 0 -6120px
+}
+
+.weixinEmoji-270f {
+    background-position: 0 -6440px
+}
+
+.weixinEmoji-1f4ce {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4bc {
+    background-position: 0 -6160px
+}
+
+.weixinEmoji-1f4bd {
+    background-position: 0 -6200px
+}
+
+.weixinEmoji-1f4be {
+    background-position: 0 -6200px
+}
+
+.weixinEmoji-1f4bf {
+    background-position: 0 -7800px
+}
+
+.weixinEmoji-1f4c0 {
+    background-position: 0 -7820px
+}
+
+.weixinEmoji-2702 {
+    background-position: 0 -6220px
+}
+
+.weixinEmoji-1f4cd {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4c3 {
+    background-position: 0 -6440px
+}
+
+.weixinEmoji-1f4c4 {
+    background-position: 0 -6440px
+}
+
+.weixinEmoji-1f4c5 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4c1 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4c2 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4d3 {
+    background-position: 0 -6420px
+}
+
+.weixinEmoji-1f4d6 {
+    background-position: 0 -6420px
+}
+
+.weixinEmoji-1f4d4 {
+    background-position: 0 -6420px
+}
+
+.weixinEmoji-1f4d5 {
+    background-position: 0 -6420px
+}
+
+.weixinEmoji-1f4d7 {
+    background-position: 0 -6420px
+}
+
+.weixinEmoji-1f4d8 {
+    background-position: 0 -6420px
+}
+
+.weixinEmoji-1f4d9 {
+    background-position: 0 -6420px
+}
+
+.weixinEmoji-1f4da {
+    background-position: 0 -6420px
+}
+
+.weixinEmoji-1f4db {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4dc {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4cb {
+    background-position: 0 -6440px
+}
+
+.weixinEmoji-1f4c6 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4ca {
+    background-position: 0 -6380px
+}
+
+.weixinEmoji-1f4c8 {
+    background-position: 0 -6380px
+}
+
+.weixinEmoji-1f4c9 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4c7 {
+    background-position: 0 -6420px
+}
+
+.weixinEmoji-1f4cc {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4d2 {
+    background-position: 0 -6420px
+}
+
+.weixinEmoji-1f4cf {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4d0 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4d1 {
+    background-position: 0 -6440px
+}
+
+.weixinEmoji-1f3bd {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-26be {
+    background-position: 0 -6480px
+}
+
+.weixinEmoji-26f3 {
+    background-position: 0 -6500px
+}
+
+.weixinEmoji-1f3be {
+    background-position: 0 -6520px
+}
+
+.weixinEmoji-26bd {
+    background-position: 0 -6540px
+}
+
+.weixinEmoji-1f3bf {
+    background-position: 0 -6560px
+}
+
+.weixinEmoji-1f3c0 {
+    background-position: 0 -6580px
+}
+
+.weixinEmoji-1f3c1 {
+    background-position: 0 -6600px
+}
+
+.weixinEmoji-1f3c2 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f3c3 {
+    background-position: 0 -6620px
+}
+
+.weixinEmoji-1f3c4 {
+    background-position: 0 -6640px
+}
+
+.weixinEmoji-1f3c6 {
+    background-position: 0 -6660px
+}
+
+.weixinEmoji-1f3c8 {
+    background-position: 0 -6700px
+}
+
+.weixinEmoji-1f3ca {
+    background-position: 0 -6720px
+}
+
+.weixinEmoji-1f683 {
+    background-position: 0 -6740px
+}
+
+.weixinEmoji-1f687 {
+    background-position: 0 -6780px
+}
+
+.weixinEmoji-24c2 {
+    background-position: 0 -6780px
+}
+
+.weixinEmoji-1f684 {
+    background-position: 0 -6800px
+}
+
+.weixinEmoji-1f685 {
+    background-position: 0 -6820px
+}
+
+.weixinEmoji-1f697 {
+    background-position: 0 -6840px
+}
+
+.weixinEmoji-1f699 {
+    background-position: 0 -6860px
+}
+
+.weixinEmoji-1f68c {
+    background-position: 0 -6880px
+}
+
+.weixinEmoji-1f68f {
+    background-position: 0 -6900px
+}
+
+.weixinEmoji-1f6a2 {
+    background-position: 0 -6920px
+}
+
+.weixinEmoji-2708 {
+    background-position: 0 -6940px
+}
+
+.weixinEmoji-26f5 {
+    background-position: 0 -6960px
+}
+
+.weixinEmoji-1f689 {
+    background-position: 0 -7000px
+}
+
+.weixinEmoji-1f680 {
+    background-position: 0 -7020px
+}
+
+.weixinEmoji-1f6a4 {
+    background-position: 0 -7040px
+}
+
+.weixinEmoji-1f695 {
+    background-position: 0 -7060px
+}
+
+.weixinEmoji-1f69a {
+    background-position: 0 -7100px
+}
+
+.weixinEmoji-1f692 {
+    background-position: 0 -7120px
+}
+
+.weixinEmoji-1f691 {
+    background-position: 0 -7140px
+}
+
+.weixinEmoji-1f693 {
+    background-position: 0 -7260px
+}
+
+.weixinEmoji-26fd {
+    background-position: 0 -7180px
+}
+
+.weixinEmoji-1f17f {
+    background-position: 0 -7200px
+}
+
+.weixinEmoji-1f6a5 {
+    background-position: 0 -7220px
+}
+
+.weixinEmoji-1f6a7 {
+    background-position: 0 -9720px
+}
+
+.weixinEmoji-1f6a8 {
+    background-position: 0 -7260px
+}
+
+.weixinEmoji-2668 {
+    background-position: 0 -7280px
+}
+
+.weixinEmoji-26fa {
+    background-position: 0 -7300px
+}
+
+.weixinEmoji-1f3a0 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f3a1 {
+    background-position: 0 -7320px
+}
+
+.weixinEmoji-1f3a2 {
+    background-position: 0 -7340px
+}
+
+.weixinEmoji-1f3a3 {
+    background-position: 0 -7360px
+}
+
+.weixinEmoji-1f3a4 {
+    background-position: 0 -7380px
+}
+
+.weixinEmoji-1f3a5 {
+    background-position: 0 -7400px
+}
+
+.weixinEmoji-1f3a6 {
+    background-position: 0 -7420px
+}
+
+.weixinEmoji-1f3a7 {
+    background-position: 0 -7440px
+}
+
+.weixinEmoji-1f3a8 {
+    background-position: 0 -7460px
+}
+
+.weixinEmoji-1f3a9 {
+    background-position: 0 -7540px
+}
+
+.weixinEmoji-1f3aa {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f3ab {
+    background-position: 0 -7500px
+}
+
+.weixinEmoji-1f3ac {
+    background-position: 0 -7520px
+}
+
+.weixinEmoji-1f3ad {
+    background-position: 0 -7540px
+}
+
+.weixinEmoji-1f3ae {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f004 {
+    background-position: 0 -7560px
+}
+
+.weixinEmoji-1f3af {
+    background-position: 0 -7580px
+}
+
+.weixinEmoji-1f3b0 {
+    background-position: 0 -7600px
+}
+
+.weixinEmoji-1f3b1 {
+    background-position: 0 -7620px
+}
+
+.weixinEmoji-1f3b2 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f3b3 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f3b4 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f0cf {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f3b5 {
+    background-position: 0 -7640px
+}
+
+.weixinEmoji-1f3b6 {
+    background-position: 0 -7740px
+}
+
+.weixinEmoji-1f3b7 {
+    background-position: 0 -7680px
+}
+
+.weixinEmoji-1f3b8 {
+    background-position: 0 -7700px
+}
+
+.weixinEmoji-1f3b9 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f3ba {
+    background-position: 0 -7720px
+}
+
+.weixinEmoji-1f3bb {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f3bc {
+    background-position: 0 -7740px
+}
+
+.weixinEmoji-303d {
+    background-position: 0 -7760px
+}
+
+.weixinEmoji-1f4f7 {
+    background-position: 0 -4940px
+}
+
+.weixinEmoji-1f4f9 {
+    background-position: 0 -7400px
+}
+
+.weixinEmoji-1f4fa {
+    background-position: 0 -7780px
+}
+
+.weixinEmoji-1f4fb {
+    background-position: 0 -7840px
+}
+
+.weixinEmoji-1f4fc {
+    background-position: 0 -7860px
+}
+
+.weixinEmoji-1f48b {
+    background-position: 0 -7900px
+}
+
+.weixinEmoji-1f48c {
+    background-position: 0 -11200px
+}
+
+.weixinEmoji-1f48d {
+    background-position: 0 -7940px
+}
+
+.weixinEmoji-1f48e {
+    background-position: 0 -7960px
+}
+
+.weixinEmoji-1f48f {
+    background-position: 0 -7980px
+}
+
+.weixinEmoji-1f490 {
+    background-position: 0 -8000px
+}
+
+.weixinEmoji-1f491 {
+    background-position: 0 -8020px
+}
+
+.weixinEmoji-1f492 {
+    background-position: 0 -8040px
+}
+
+.weixinEmoji-1f51e {
+    background-position: 0 -9860px
+}
+
+.weixinEmoji-a9 {
+    background-position: 0 -9900px
+}
+
+.weixinEmoji-ae {
+    background-position: 0 -9920px
+}
+
+.weixinEmoji-2122 {
+    background-position: 0 -9940px
+}
+
+.weixinEmoji-2139 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2320e3 {
+    background-position: 0 -8060px
+}
+
+.weixinEmoji-3120e3 {
+    background-position: 0 -8080px
+}
+
+.weixinEmoji-3220e3 {
+    background-position: 0 -8100px
+}
+
+.weixinEmoji-3320e3 {
+    background-position: 0 -8120px
+}
+
+.weixinEmoji-3420e3 {
+    background-position: 0 -8140px
+}
+
+.weixinEmoji-3520e3 {
+    background-position: 0 -8160px
+}
+
+.weixinEmoji-3620e3 {
+    background-position: 0 -8180px
+}
+
+.weixinEmoji-3720e3 {
+    background-position: 0 -8200px
+}
+
+.weixinEmoji-3820e3 {
+    background-position: 0 -8220px
+}
+
+.weixinEmoji-3920e3 {
+    background-position: 0 -8240px
+}
+
+.weixinEmoji-3020e3 {
+    background-position: 0 -8260px
+}
+
+.weixinEmoji-1f51f {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4f6 {
+    background-position: 0 -8280px
+}
+
+.weixinEmoji-1f4f3 {
+    background-position: 0 -8300px
+}
+
+.weixinEmoji-1f4f4 {
+    background-position: 0 -8320px
+}
+
+.weixinEmoji-1f354 {
+    background-position: 0 -8340px
+}
+
+.weixinEmoji-1f359 {
+    background-position: 0 -8360px
+}
+
+.weixinEmoji-1f370 {
+    background-position: 0 -8380px
+}
+
+.weixinEmoji-1f35c {
+    background-position: 0 -8400px
+}
+
+.weixinEmoji-1f35e {
+    background-position: 0 -8420px
+}
+
+.weixinEmoji-1f373 {
+    background-position: 0 -8440px
+}
+
+.weixinEmoji-1f366 {
+    background-position: 0 -8460px
+}
+
+.weixinEmoji-1f35f {
+    background-position: 0 -8480px
+}
+
+.weixinEmoji-1f361 {
+    background-position: 0 -8500px
+}
+
+.weixinEmoji-1f358 {
+    background-position: 0 -8520px
+}
+
+.weixinEmoji-1f35a {
+    background-position: 0 -8540px
+}
+
+.weixinEmoji-1f35d {
+    background-position: 0 -8560px
+}
+
+.weixinEmoji-1f35b {
+    background-position: 0 -8580px
+}
+
+.weixinEmoji-1f362 {
+    background-position: 0 -8600px
+}
+
+.weixinEmoji-1f363 {
+    background-position: 0 -8620px
+}
+
+.weixinEmoji-1f371 {
+    background-position: 0 -8640px
+}
+
+.weixinEmoji-1f372 {
+    background-position: 0 -8660px
+}
+
+.weixinEmoji-1f367 {
+    background-position: 0 -8680px
+}
+
+.weixinEmoji-1f356 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f365 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f360 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f355 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f357 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f368 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f369 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f36a {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f36b {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f36c {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f36d {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f36e {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f36f {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f364 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f374 {
+    background-position: 0 -8700px
+}
+
+.weixinEmoji-2615 {
+    background-position: 0 -8720px
+}
+
+.weixinEmoji-1f378 {
+    background-position: 0 -8860px
+}
+
+.weixinEmoji-1f37a {
+    background-position: 0 -8760px
+}
+
+.weixinEmoji-1f375 {
+    background-position: 0 -8780px
+}
+
+.weixinEmoji-1f376 {
+    background-position: 0 -8800px
+}
+
+.weixinEmoji-1f377 {
+    background-position: 0 -8860px
+}
+
+.weixinEmoji-1f37b {
+    background-position: 0 -8840px
+}
+
+.weixinEmoji-1f379 {
+    background-position: 0 -8860px
+}
+
+.weixinEmoji-2197 {
+    background-position: 0 -8960px
+}
+
+.weixinEmoji-2198 {
+    background-position: 0 -8980px
+}
+
+.weixinEmoji-2196 {
+    background-position: 0 -8920px
+}
+
+.weixinEmoji-2199 {
+    background-position: 0 -8940px
+}
+
+.weixinEmoji-2934 {
+    background-position: 0 -8960px
+}
+
+.weixinEmoji-2935 {
+    background-position: 0 -8980px
+}
+
+.weixinEmoji-2194 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2195 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2b06 {
+    background-position: 0 -9000px
+}
+
+.weixinEmoji-2b07 {
+    background-position: 0 -9020px
+}
+
+.weixinEmoji-27a1 {
+    background-position: 0 -9040px
+}
+
+.weixinEmoji-2b05 {
+    background-position: 0 -11180px
+}
+
+.weixinEmoji-25b6 {
+    background-position: 0 -9080px
+}
+
+.weixinEmoji-25c0 {
+    background-position: 0 -9100px
+}
+
+.weixinEmoji-23e9 {
+    background-position: 0 -9120px
+}
+
+.weixinEmoji-23ea {
+    background-position: 0 -9140px
+}
+
+.weixinEmoji-23eb {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-23ec {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f53a {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f53b {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f53c {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f53d {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2b55 {
+    background-position: 0 -9800px
+}
+
+.weixinEmoji-274c {
+    background-position: 0 -10340px
+}
+
+.weixinEmoji-274e {
+    background-position: 0 -10340px
+}
+
+.weixinEmoji-2757 {
+    background-position: 0 -9160px
+}
+
+.weixinEmoji-2049 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-203c {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2753 {
+    background-position: 0 -9180px
+}
+
+.weixinEmoji-2754 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2755 {
+    background-position: 0 -9220px
+}
+
+.weixinEmoji-3030 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-27b0 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-27bf {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2764 {
+    background-position: 0 -9240px
+}
+
+.weixinEmoji-1f493 {
+    background-position: 0 -9480px
+}
+
+.weixinEmoji-1f494 {
+    background-position: 0 -9280px
+}
+
+.weixinEmoji-1f495 {
+    background-position: 0 -9480px
+}
+
+.weixinEmoji-1f496 {
+    background-position: 0 -9480px
+}
+
+.weixinEmoji-1f497 {
+    background-position: 0 -9340px
+}
+
+.weixinEmoji-1f498 {
+    background-position: 0 -9360px
+}
+
+.weixinEmoji-1f499 {
+    background-position: 0 -9380px
+}
+
+.weixinEmoji-1f49a {
+    background-position: 0 -9400px
+}
+
+.weixinEmoji-1f49b {
+    background-position: 0 -9420px
+}
+
+.weixinEmoji-1f49c {
+    background-position: 0 -9440px
+}
+
+.weixinEmoji-1f49d {
+    background-position: 0 -9460px
+}
+
+.weixinEmoji-1f49e {
+    background-position: 0 -9480px
+}
+
+.weixinEmoji-1f49f {
+    background-position: 0 -9500px
+}
+
+.weixinEmoji-2665 {
+    background-position: 0 -9520px
+}
+
+.weixinEmoji-2660 {
+    background-position: 0 -9540px
+}
+
+.weixinEmoji-2666 {
+    background-position: 0 -9560px
+}
+
+.weixinEmoji-2663 {
+    background-position: 0 -9580px
+}
+
+.weixinEmoji-1f6ac {
+    background-position: 0 -9600px
+}
+
+.weixinEmoji-1f6ad {
+    background-position: 0 -9620px
+}
+
+.weixinEmoji-267f {
+    background-position: 0 -9640px
+}
+
+.weixinEmoji-1f6a9 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-26a0 {
+    background-position: 0 -9700px
+}
+
+.weixinEmoji-26d4 {
+    background-position: 0 -9720px
+}
+
+.weixinEmoji-267b {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f6b2 {
+    background-position: 0 -6980px
+}
+
+.weixinEmoji-1f6b6 {
+    background-position: 0 -7080px
+}
+
+.weixinEmoji-1f6b9 {
+    background-position: 0 -9740px
+}
+
+.weixinEmoji-1f6ba {
+    background-position: 0 -9760px
+}
+
+.weixinEmoji-1f6c0 {
+    background-position: 0 -5220px
+}
+
+.weixinEmoji-1f6bb {
+    background-position: 0 -5240px
+}
+
+.weixinEmoji-1f6bd {
+    background-position: 0 -5260px
+}
+
+.weixinEmoji-1f6be {
+    background-position: 0 -5280px
+}
+
+.weixinEmoji-1f6bc {
+    background-position: 0 -9780px
+}
+
+.weixinEmoji-1f6aa {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f6ab {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2714 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f191 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f192 {
+    background-position: 0 -10020px
+}
+
+.weixinEmoji-1f193 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f194 {
+    background-position: 0 -11020px
+}
+
+.weixinEmoji-1f195 {
+    background-position: 0 -9980px
+}
+
+.weixinEmoji-1f196 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f197 {
+    background-position: 0 -9880px
+}
+
+.weixinEmoji-1f198 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f199 {
+    background-position: 0 -10000px
+}
+
+.weixinEmoji-1f19a {
+    background-position: 0 -9960px
+}
+
+.weixinEmoji-1f201 {
+    background-position: 0 -10060px
+}
+
+.weixinEmoji-1f202 {
+    background-position: 0 -10080px
+}
+
+.weixinEmoji-1f232 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f233 {
+    background-position: 0 -10100px
+}
+
+.weixinEmoji-1f234 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f235 {
+    background-position: 0 -10120px
+}
+
+.weixinEmoji-1f236 {
+    background-position: 0 -10140px
+}
+
+.weixinEmoji-1f21a {
+    background-position: 0 -10160px
+}
+
+.weixinEmoji-1f237 {
+    background-position: 0 -10180px
+}
+
+.weixinEmoji-1f238 {
+    background-position: 0 -10200px
+}
+
+.weixinEmoji-1f239 {
+    background-position: 0 -10220px
+}
+
+.weixinEmoji-1f22f {
+    background-position: 0 -10240px
+}
+
+.weixinEmoji-1f23a {
+    background-position: 0 -10260px
+}
+
+.weixinEmoji-3299 {
+    background-position: 0 -10280px
+}
+
+.weixinEmoji-3297 {
+    background-position: 0 -10300px
+}
+
+.weixinEmoji-1f250 {
+    background-position: 0 -10320px
+}
+
+.weixinEmoji-1f251 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2795 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2796 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2716 {
+    background-position: 0 -10340px
+}
+
+.weixinEmoji-2797 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4a0 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4a1 {
+    background-position: 0 -10360px
+}
+
+.weixinEmoji-1f4a2 {
+    background-position: 0 -10380px
+}
+
+.weixinEmoji-1f4a3 {
+    background-position: 0 -10400px
+}
+
+.weixinEmoji-1f4a4 {
+    background-position: 0 -10420px
+}
+
+.weixinEmoji-1f4a5 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4a6 {
+    background-position: 0 -10460px
+}
+
+.weixinEmoji-1f4a7 {
+    background-position: 0 -10460px
+}
+
+.weixinEmoji-1f4a8 {
+    background-position: 0 -10480px
+}
+
+.weixinEmoji-1f4a9 {
+    background-position: 0 -5000px
+}
+
+.weixinEmoji-1f4aa {
+    background-position: 0 -10500px
+}
+
+.weixinEmoji-1f4ab {
+    background-position: 0 -10520px
+}
+
+.weixinEmoji-1f4ac {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2728 {
+    background-position: 0 -11000px
+}
+
+.weixinEmoji-2734 {
+    background-position: 0 -10560px
+}
+
+.weixinEmoji-2733 {
+    background-position: 0 -10580px
+}
+
+.weixinEmoji-26aa {
+    background-position: 0 -10640px
+}
+
+.weixinEmoji-26ab {
+    background-position: 0 -10640px
+}
+
+.weixinEmoji-1f534 {
+    background-position: 0 -10640px
+}
+
+.weixinEmoji-1f535 {
+    background-position: 0 -10900px
+}
+
+.weixinEmoji-1f532 {
+    background-position: 0 -10900px
+}
+
+.weixinEmoji-1f533 {
+    background-position: 0 -10980px
+}
+
+.weixinEmoji-2b50 {
+    background-position: 0 -10720px
+}
+
+.weixinEmoji-2b1c {
+    background-position: 0 -10980px
+}
+
+.weixinEmoji-2b1b {
+    background-position: 0 -10900px
+}
+
+.weixinEmoji-25ab {
+    background-position: 0 -10980px
+}
+
+.weixinEmoji-25aa {
+    background-position: 0 -10900px
+}
+
+.weixinEmoji-25fd {
+    background-position: 0 -10980px
+}
+
+.weixinEmoji-25fe {
+    background-position: 0 -10900px
+}
+
+.weixinEmoji-25fb {
+    background-position: 0 -10980px
+}
+
+.weixinEmoji-25fc {
+    background-position: 0 -10900px
+}
+
+.weixinEmoji-1f536 {
+    background-position: 0 -10980px
+}
+
+.weixinEmoji-1f537 {
+    background-position: 0 -10980px
+}
+
+.weixinEmoji-1f538 {
+    background-position: 0 -10980px
+}
+
+.weixinEmoji-1f539 {
+    background-position: 0 -10980px
+}
+
+.weixinEmoji-2747 {
+    background-position: 0 -11000px
+}
+
+.weixinEmoji-1f4ae {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f4af {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-21a9 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-21aa {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f503 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f50a {
+    background-position: 0 -7880px
+}
+
+.weixinEmoji-1f50b {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f50c {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f50d {
+    background-position: 0 -11060px
+}
+
+.weixinEmoji-1f50e {
+    background-position: 0 -11060px
+}
+
+.weixinEmoji-1f512 {
+    background-position: 0 -11140px
+}
+
+.weixinEmoji-1f513 {
+    background-position: 0 -11100px
+}
+
+.weixinEmoji-1f50f {
+    background-position: 0 -11140px
+}
+
+.weixinEmoji-1f510 {
+    background-position: 0 -11140px
+}
+
+.weixinEmoji-1f511 {
+    background-position: 0 -11160px
+}
+
+.weixinEmoji-1f514 {
+    background-position: 0 -4980px
+}
+
+.weixinEmoji-2611 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f518 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f516 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f517 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f519 {
+    background-position: 0 -11180px
+}
+
+.weixinEmoji-1f51a {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f51b {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f51c {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-1f51d {
+    background-position: 0 -10040px
+}
+
+.weixinEmoji-2003 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2002 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2005 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-2705 {
+    background-position: 0 -9200px
+}
+
+.weixinEmoji-270a {
+    background-position: 0 -11220px
+}
+
+.weixinEmoji-270b {
+    background-position: 0 -11240px
+}
+
+.weixinEmoji-270c {
+    background-position: 0 -11260px
+}
+
+.weixinEmoji-1f44a {
+    background-position: 0 -11280px
+}
+
+.weixinEmoji-1f44d {
+    background-position: 0 -11300px
+}
+
+.weixinEmoji-261d {
+    background-position: 0 -11320px
+}
+
+.weixinEmoji-1f446 {
+    background-position: 0 -11340px
+}
+
+.weixinEmoji-1f447 {
+    background-position: 0 -11360px
+}
+
+.weixinEmoji-1f448 {
+    background-position: 0 -11380px
+}
+
+.weixinEmoji-1f449 {
+    background-position: 0 -11400px
+}
+
+.weixinEmoji-1f44b {
+    background-position: 0 -11420px
+}
+
+.weixinEmoji-1f44f {
+    background-position: 0 -11440px
+}
+
+.weixinEmoji-1f44c {
+    background-position: 0 -11460px
+}
+
+.weixinEmoji-1f44e {
+    background-position: 0 -11480px
+}
+
+.weixinEmoji-1f450 {
+    background-position: 0 -11500px
+}

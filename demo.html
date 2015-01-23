@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>weixinEmoji</title>
+    <link rel="stylesheet" href="weixinEmoji.css">
+    <script src="weixinEmoji.js"></script>
+    <script src="weixinEmojiExtend.js"></script>
+</head>
+<body>
+    <div class="p" id="text">/激动/::)"我是Gem🇨🇳🍁❤️</div>
+    <script>
+    var ss = document.getElementById('text');
+    ss.innerHTML = WeixinEmojiExtend.replace(ss.innerHTML);
+    </script>    
+</body>
+</html>
